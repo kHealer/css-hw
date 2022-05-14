@@ -1,0 +1,42 @@
+.inside {
+    list-style-position: inside;
+}
+h1{
+    display:flex ;
+    flex-direction: row;
+    justify-content: center;
+    color: rgb(212, 18, 18);
+}
+h2{
+    display:flex ;
+    flex-direction: row;
+    justify-content: center;
+    color:purple;
+}
+h3{
+    color:darkgoldenrod
+}
+.ortala{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.leftside{
+    
+    flex-direction: row;
+    justify-content: left;
+    font-size: 17px;
+}
+p{
+    display:flex ;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 17px;
+}
+li{
+    display:flex ;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
